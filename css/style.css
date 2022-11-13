@@ -319,4 +319,12 @@ footer div div img:hover{
 .brands_article{
     margin-bottom: 20px;
     max-width: 300px;
+    display: inline-block;
+}
+.owl-stage{
+    display: flex;
+    align-items: center;
+}
+owl-item{
+    text-align: center;
 }
