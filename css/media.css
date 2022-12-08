@@ -1,0 +1,80 @@
+@media screen and (max-width: 374px) {
+    .inst1man{
+        margin-left: 46px;
+    }
+
+}
+
+
+@media screen and (max-width: 390px) {
+    .inst1man{
+        margin-left: 130px;
+    }
+
+}
+
+
+@media screen and (max-width: 414px) {
+    .inst1man{
+        margin-left: 120px;
+    }
+
+
+}
+
+
+
+@media screen and (max-width: 464px) {
+    .inst1man {
+        margin-left: 138px;
+        margin-top: -61px;
+    }
+
+
+    .manwoman .d_flex {
+        flex-wrap: nowrap;
+    }
+
+    .logo_touch {
+        margin-top: -21px;
+        font-size: 10px;
+        margin-left: 37px;
+    }
+
+    .letter_logo {
+        margin-left: 200px;
+    }
+
+    .heart_logo {
+        margin-bottom: 28px;
+        margin-left: 50px;
+    }
+
+    .recent .color_art img {
+        margin-top: 50px;
+    }
+
+    .main_banner h1 {
+        padding-top: 80px;
+    }
+
+    header nav li a:hover {
+        transform: rotate(360deg);
+        transition: 0.5s;
+    }
+    header img{
+        margin-left: 115px;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    .color_art{
+        width: 100%;
+    }
+    .inst1man{
+
+    }
+
+
+}

@@ -13,6 +13,7 @@ margin: auto;
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
+    text-align: center;
 
 }
 
@@ -328,3 +329,213 @@ footer div div img:hover{
 owl-item{
     text-align: center;
 }
+
+
+.our_team{
+    text-align: center;
+    padding-top: 79px;
+    padding-bottom: 89px;
+    background-color:white;
+}
+.our_team h3{
+    font-family:'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 36px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #333333;
+}
+
+.our_team h3:after{
+    content: "";
+    display: block;
+    width: 80px;
+    height: 2px;
+    background-color: rgba(0, 0, 0, 0.09);
+    margin: auto;
+    margin-top: 28px;
+    margin-bottom: 43px;
+}
+.our_team h4{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #333333;
+    margin-top: 20px;
+
+}
+.our_team p{
+    font-family: 'Vollkorn';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #333333;
+    margin-top: -6px;
+}
+
+.inst1man{
+    display: flex;
+    position: absolute;
+    list-style: none;
+    margin-left: 46px;
+}
+.inst1man li{
+    margin-left: 21px;
+}
+.designer_links{
+    display: flex;
+    margin-left: -30px;
+}
+
+
+.manwoman{
+    text-align: center;
+    background-color:  #F5F5F5;
+
+}
+.manwoman a{
+    position: absolute;
+    margin-top: 69px;
+    margin-left: -20px;
+}
+
+
+
+.manwoman p{
+    font-family: 'Vollkorn', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 33px;
+    text-align: center;
+    color: #333333;
+    padding-bottom: 24px;
+
+}
+.manwoman h3{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 10px;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #ABABAB;
+}
+
+.Julius{
+    margin-bottom: 100px;
+    margin-top: 196px;
+}
+.Rachel{
+    margin-bottom: 100px;
+    margin-top: 196px;
+}
+.manwoman .d_flex{
+    justify-content: space-around;
+}
+.manwoman a:after {
+    content: "";
+    display: block;
+    width: 2px;
+    height: 215px;
+    background-color: rgba(0, 0, 0, 0.09);
+    margin: auto;
+    margin-top: 66px;
+    margin-bottom: 43px;
+    position: absolute;
+    margin-left: 30px;
+}
+.banner_touch{
+    background-image: url("../images/IMAGE (21).jpg");
+    text-align: center;
+    padding-top: 79px;
+    padding-bottom: 97px;
+    background-size: cover;
+}
+.banner_touch h1:after{
+    content: "";
+    display: block;
+    width: 80px;
+    height: 2px;
+    background-color: rgba(0, 0, 0, 0.09);
+    margin: auto;
+    margin-top: 28px;
+    margin-bottom: 43px;
+}
+
+
+
+.banner_touch h1{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 36px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #333333;
+
+}
+.banner_touch h4{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #333333;
+    margin-top: 26px;
+    margin-bottom: 20px;
+}
+
+.location_links a{
+    font-family: 'Vollkorn', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 22px;
+    text-align: center;
+    color: #212121;
+
+
+}
+.banner_touch .location_links{
+    list-style: none;
+}
+.banner_touch a{
+    text-decoration: none;
+}
+.banner_touch .d_flex{
+    margin-right: 22px;
+}
+.banner_touch .location_links img{
+    position: absolute;
+    display: flex;
+    margin-left: 10px;
+    margin-top: 3px;
+}
+.heart_logo{
+    margin-bottom: 28px;
+}
+.logo_touch{
+    margin-top: -16px;
+}
+
+
+
+
+
+
