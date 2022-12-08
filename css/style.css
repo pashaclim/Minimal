@@ -334,7 +334,6 @@ owl-item{
 .our_team{
     text-align: center;
     padding-top: 79px;
-    padding-bottom: 89px;
     background-color:white;
 }
 .our_team h3{
@@ -386,6 +385,7 @@ owl-item{
     position: absolute;
     list-style: none;
     margin-left: 46px;
+    margin-top: -55px;
 }
 .inst1man li{
     margin-left: 21px;
